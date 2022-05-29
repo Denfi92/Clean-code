@@ -34,7 +34,7 @@
     margin: 0 auto 0;
 }
 
-.main-input__add-item,
+.main-input__new-task,
 .checkbox-label,
 .list-item__input {
     display: inline-block;
